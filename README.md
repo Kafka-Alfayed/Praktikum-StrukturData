@@ -1,2 +1,3 @@
 # Praktikum-StrukturData
-Muhammad Kafka Alfayed (240705029)
+Muhammad Kafka Alfayed
+240705029
