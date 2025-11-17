@@ -1,3 +1,4 @@
 # Praktikum-StrukturData
-Muhammad Kafka Alfayed
-(240705029)
+Nama: Muhammad Kafka Alfayed
+
+NIM: 240705029
